@@ -10,4 +10,4 @@ My research has been applied in engineering (machine learning for material predi
 
 ### Contact me
 
-[firstname.lastname at gatech.edu](mailto:email@domain.com)
+firstname.lastname at gatech.edu
