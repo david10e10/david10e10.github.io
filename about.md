@@ -9,10 +9,6 @@ I am a Ph.D. student in the School of Computational Science & Engineering at Geo
 My research has been applied in engineering (machine learning for material prediction), finance (deep reinforcement learning for market trading), natural language (NLP for recommender systems), and cyber-security. 
 
 
-### More Information
-
-More information.
-
 ### Contact me
 
-[firstname.lastname at gatech.edu](mailto:email@domain.com)
+firstname.lastname at gatech.edu
