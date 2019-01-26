@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Ph.D. student in the School of Computational Science & Engineering at Georgia Tech. My Ph.D. research is at the intersection of machine learning and uncertainty modeling. In particular, I am developing machine learning algorithms that can be used in domains under significant uncertainty—with randomness, imprecise data, hidden information, and partial observability. Ultimately, the main goal of my research is to develop methods and algorithms for autonomous decision-making and control, where artificial agents have to act in real-world situations.
+
+My research has been applied in engineering (machine learning for material prediction), finance (deep reinforcement learning for market trading), natural language (NLP for recommender systems), and cyber-security. 
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More information.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[firstname.lastname at gatech.edu](mailto:email@domain.com)
