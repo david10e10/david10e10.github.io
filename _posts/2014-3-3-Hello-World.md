@@ -9,9 +9,9 @@ I am a Ph.D. student in the [School of Computational Science & Engineering](http
 My research has been applied in engineering (machine learning for material prediction), finance (deep reinforcement learning for market trading), natural language (NLP for recommender systems), and cyber-security. 
 
 
-### More Information
+!### More Information
 
-More information.
+!More information.
 
 ### Contact me
 
