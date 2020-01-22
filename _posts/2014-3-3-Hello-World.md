@@ -11,3 +11,6 @@ My research has been applied in engineering (machine learning for material predi
 ### Contact me
 
 firstname.lastname at gatech.edu
+
+### Learn More
+<https://davidbetancourt.net/>
