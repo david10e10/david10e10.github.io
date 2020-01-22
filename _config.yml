@@ -6,7 +6,7 @@
 name: David Betancourt
 
 # Short bio or description (displayed in the header)
-description: PhD Researcher in Machine Learning and Uncertainty Modeling
+description: David Betancourt Machine Learning Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/davidstr10/davidstr10.github.io/tree/master/images/davidphoto1.png
@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  medium: DavidBtncourt
+  medium: david.betancourt
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
