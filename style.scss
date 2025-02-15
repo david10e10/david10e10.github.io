@@ -296,7 +296,7 @@ footer {
   text-align: center;
 }
 .newStyle {
-  min-height: calc(100vh-199px);
+  min-height: calc(100vh - 199px);
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
