@@ -20,7 +20,7 @@ For his doctoral studies, he worked under the guidance of Dr. Rafi L. Muhanna, i
 
 ### Education
 
-## Ph.D., Computer Science, School of Computational Science and Engineering, Georgia Tech.
+#### Ph.D., Computer Science, School of Computational Science and Engineering, Georgia Tech.
 
 Thesis: [Interval Deep Learning for Uncertainty Quantification in Engineering Problems.](https://smartech.gatech.edu/handle/1853/64796)
 Advisor: Dr. Rafi L. Muhanna  
