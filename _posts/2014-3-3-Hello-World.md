@@ -21,12 +21,12 @@ For his doctoral studies, he worked under the guidance of Dr. Rafi L. Muhanna, i
 ### Education
 
 #### Ph.D., Computer Science, School of Computational Science and Engineering, Georgia Tech.
-
 Thesis: [Interval Deep Learning for Uncertainty Quantification in Engineering Problems.](https://smartech.gatech.edu/handle/1853/64796)
 Advisor: Dr. Rafi L. Muhanna  
 Committee: Drs. B. Aditya Prakash, Chao Zhang, Vladik Kreinovich, Steffen Freitag, Abdul-Hamid Zureick  
 Qualifying Areas: Machine Learning and Numerical Linear Algebra  
 Minor Area: Uncertainty Modeling  
+
 **M.S., Computer Science. Concentration: Machine Learning, Georgia Tech**  
 **M.S., Engineering. Concentration: Computational Mechanics, Georgia Tech.**  
 **B.S., Engineering, High Honors. Concentration: Solid Mechanics, Georgia Tech**
