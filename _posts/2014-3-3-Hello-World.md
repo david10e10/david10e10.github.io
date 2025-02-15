@@ -16,8 +16,6 @@ Dr. Betancourt earned his **Ph.D. in Computer Science from Georgia Tech,** where
 
 Under his leadership, DB Macro has evolved over the past decade from an entrepreneurial initiative into a quant fund that has built its proprietary trading platform entirely in-house, anchored by a next-generation algorithmic engine. This platform integrates agentic AI, high-performance computing, advanced machine learning, and high-dimensional optimization algorithms—engineered to generate sustainable alpha in all market conditions. The operational insights gained from DB Macro laid the foundation for Human Reinforce Labs, where he now spearheads the creation of a FinTech platform that employs frontier agentic AI to unlock personalized financial decision-making at scale, ensuring users have access to reliable, advanced financial tools. His work reflects his philosophy of employing **safe AI to augment human decision-making in complex, high-stakes environments.**
 
-For his doctoral studies, he worked under the guidance of Dr. Rafi L. Muhanna, in the Center for Reliable Engineering Computing lab. During his research, he pioneered the area of “interval deep learning,” which uses interval analysis for deep learning to solve problems under uncertainty. During his doctoral studies, he interned for the defense company STR, developing reinforcement learning algorithms for cyber-physical applications. In his free time in the course of his Ph.D., he developed market trading algorithms using deep reinforcement learning. Prior to joining Apple, he was the chief scientist of the AI technology start-up, Vorstella, which was acquired in 2020.
-
 ### Education
 
 #### Ph.D., Computer Science, School of Computational Science and Engineering, Georgia Tech.
